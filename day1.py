@@ -8,7 +8,7 @@ urname = input("Enter your name: ")
 print(len(urname))
 
 
-# Final exrecise
+# Final exercise
 
 a = input("a: ")
 b = input("b: ")
